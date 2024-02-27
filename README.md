@@ -26,3 +26,5 @@ src="https://img.shields.io/github/followers/DimDimich-creator?logo=github&style
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DimDimich-creator" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+[![wakatime](https://wakatime.com/badge/user/4f95af99-5e8b-4c7e-badd-1e5da05a455b.svg)](https://wakatime.com/@4f95af99-5e8b-4c7e-badd-1e5da05a455b)
