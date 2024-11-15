@@ -10,7 +10,7 @@ Web Devoloper & Teacher
 * 🚀  I'm currently working on [jpstat](http://tgscope.ru)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer
-* ⚡  I also like to crack jokes
+* ⚡  Btw i use arch
 
 <a href="https://www.github.com/DimDimich-creator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DimDimich-creator?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
