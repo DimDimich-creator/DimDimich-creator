@@ -5,7 +5,7 @@ Web Devoloper & Teacher
 -----------------------
 
 * 🌍  I'm based in Moscow, Russia
-* 🖥️  See my portfolio at [MyWebSite](http://dimdimich.ru)
+* 🖥️  See my portfolio at [dmdmch.dev](http://dmdmch.ru)
 * ✉️  You can contact me at [stilys62@gmail.com](mailto:stilys62@gmail.com)
 * 🚀  I'm currently working on [jpstat](http://tgscope.ru)
 * 🧠  I'm learning Typescript
